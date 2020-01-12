@@ -2,13 +2,14 @@
 A smart and easy to customize thread safe asyncronous logger for your CS project
 
 # What CsLog can do for you
-- Can log ERRROS (always)
-- Can log INFO (if enabled)
-- Can log DEBUG (if enabled)
-- Can log CATCH (if enabled)
-- Can async log to file
-- Can async log to UI 
-- Can runtime change log verbose (INFO_LEVEL / DEBUG_LEVEL / CATCH_LEVEL)
+- Chose log path, log prefix (file name till be $PREFIX_$YEAR$MONTH$DAY.log"
+- Log ERRROS (always)
+- Log INFO (if enabled)
+- Log DEBUG (if enabled)
+- Log CATCH (if enabled)
+- Async log to file
+- Async log to UI 
+- Runtime change log verbose (INFO_LEVEL / DEBUG_LEVEL / CATCH_LEVEL)
 
 # How to integrate in your project
 - Copy Log.cs in your project
