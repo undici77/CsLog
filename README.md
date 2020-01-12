@@ -21,7 +21,7 @@ A smart and easy to customize thread safe asyncronous logger for your CS project
 17:42:03.260595 [INFO] Main: started<br />
 17:42:03.270620 [DEBUG] Main: Wait 100 ms and start asynch test thread<br />
 17:42:03.371889 [INFO] TestThread: ready to start<br />
-17:42:03.374897 [DEBUG] Main: write some debug [0]<br /><br />
+17:42:03.374897 [DEBUG] Main: write some debug [0]<br />
 17:42:03.398962 [DEBUG] Main: write some debug [1]<br />
 17:42:03.400968 [INFO] TestThread: started<br />
 17:42:03.400968 [DEBUG] TestThread: write some debug [0]<br />
